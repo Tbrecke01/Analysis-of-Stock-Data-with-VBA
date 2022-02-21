@@ -18,6 +18,7 @@ I began the refactoring process by creating a roadmap of the steps I would need 
 
 ## Results
 The net result was a nearly 6x increase in speed, with analysis time decreasing from 0.723s to 0.109s and 0.754s to 0.125s for 2017 and 2018 respectfully (as shown by the pictures below).
+
 ![VBA_Challenge_2017](https://github.com/Tbrecke01/VBA_Challenge/blob/main/VBA_Challenge_2017.png)
 
 ![VBA_Challenge_2018](https://github.com/Tbrecke01/VBA_Challenge/blob/main/VBA_Challenge_2018.png)
